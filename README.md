@@ -1,3 +1,4 @@
+<p align="center">
 Hello 👋, I'm Antoine, web developer from France. 
 
 <!--
@@ -12,3 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about what you want 
 
 ![img](https://github.com/Antoinelht/Antoinelht/assets/143599578/98252d74-bf12-4c45-a60a-7d3713014f9b)
+</p>
