@@ -27,11 +27,11 @@ Hello 👋, I'm Antoine, web developer from France.
 <h2 align="left">ℹ️ INFORMATION & CONTACT</h2>
 <!-- Spacce -->
 
- <a href="mailto:florentextrassiaz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="" /></a>
- <a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Florent Baccard" ></a>
- <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username Flo_bcd" ></a>
- <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Florent Baccard" /></a>
-<!-- [![GMAIl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:florentextrassiaz@hotmail.com)](mailto:florentextrassiaz@hotmail.com) -->
+ <a href="mailto:laheurte.antoine@hotmail.fr"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter" ></a>
+ <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username lht9" ></a>
+ <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Laheurte Antoine" /></a>
+<!-- [![GMAIl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:laheurte.antoine@hotmail.fr)](mailto:laheurte.antoine@hotmail.fr) -->
 
 <!-- Dev Web -->
 <h2 align="left">🕸️ WEB DEV</h2>
