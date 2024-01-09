@@ -1,15 +1,20 @@
-![img](https://github.com/Antoinelht/Antoinelht/assets/143599578/98252d74-bf12-4c45-a60a-7d3713014f9b)
 
-Hello 👋, I'm Antoine, web developer from France. 
+<p align="center"> Hello 👋, I'm Antoine, web developer from France. 
 
-- 🔭 I’m currently working as a developer web and web mobile 
-- 🌱 I’m currently learning many language
-- 💬 Ask me about what you want 
+
+   🔭 I’m currently working as a developer web and web mobile 
+   🌱 I’m currently learning many language
+   💬 Ask me about what you want 
+</p>
+<br/>
+
+<align="center"> ![img](https://github.com/Antoinelht/Antoinelht/assets/143599578/98252d74-bf12-4c45-a60a-7d3713014f9b) 
+
 
 <!-- Start -->
 
 <!-- Welcome -->
-<!-- <h1 align="center">👨‍💻 Florent Baccard</h1> -->
+<!-- <h1 align="center">👨‍💻 Antoine Laheurte</h1> -->
 
 <!-- Spacce -->
 <br/>
@@ -24,7 +29,7 @@ Hello 👋, I'm Antoine, web developer from France.
 <summary align="center">CLICK FOR MORE INFO !</summary>
   
 <!-- My Information -->
-<h2 align="left">ℹ️ INFORMATION & CONTACT</h2>
+<h2 align="left"> INFORMATION & CONTACT</h2>
 <!-- Spacce -->
 
  <a href="mailto:laheurte.antoine@hotmail.fr"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="" /></a>
@@ -144,10 +149,3 @@ Hello 👋, I'm Antoine, web developer from France.
 <!-- Space -->
 <br/>
 
-<!-- Space Bar -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-<!-- ETH / ERC-20 PNG -->
-<img width=100% src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgzemk4cnM0aXB5emJmOGNscTRpOGhhdjJqY2lqdnI3YnI2cnJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MagSgolK3ScWvtHAB4/giphy.gif />
-<!-- Space Bar -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-<!-- End -->
