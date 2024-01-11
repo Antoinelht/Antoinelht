@@ -30,7 +30,7 @@
  <a href="mailto:laheurte.antoine@hotmail.fr"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="" /></a>
  <a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter" ></a>
  <a href="https://discord.com/users/1165941599176499252"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username antoinelht" ></a>
- <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Laheurte Antoine" /></a>
+ <a href="www.linkedin.com/in/antoine-lht"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Laheurte Antoine" /></a>
 <!-- [![GMAIl](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:laheurte.antoine@hotmail.fr)](mailto:laheurte.antoine@hotmail.fr) -->
 
 <!-- Dev Web -->
