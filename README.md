@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="40%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/7ef02ca5-f823-438b-9fa5-8ac8324ed312">
+  <img width="50%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/7ef02ca5-f823-438b-9fa5-8ac8324ed312">
 
 
 </p>
