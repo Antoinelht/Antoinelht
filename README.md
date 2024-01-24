@@ -21,7 +21,8 @@
 
 <!-- Click for more -->
 <details/>
-<summary align="center">CLICK FOR MORE INFO !</summary>
+<summary align="center">![Noir avec Fluo Pixel Image Conception Livre Couverture](https://github.com/Antoinelht/Antoinelht/assets/143599578/7f7d478d-3167-4707-beae-6bb335685eac)
+</summary>
   
 <!-- My Information -->
 <h2 align="left"> INFORMATION & CONTACT</h2>
