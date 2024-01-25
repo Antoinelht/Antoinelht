@@ -1,11 +1,10 @@
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <p align="center">
 
 <img width="80%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/dd67bf43-7688-44c0-a7a4-d7b61d400825">
 
 </p>
-<h2 align="center"> Hello 👋, I'm Antoine, web developer from France </h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">Hello 👋, I'm Antoine, web developer from France</h2>
 </p>
 
 <!-- Start -->
@@ -146,4 +145,17 @@
   
 <!-- Space -->
 <br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/L16H7N1N65">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=L16H7N1N65&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=L16H7N1N65&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L16H7N1N65&theme=2077" height="180em" /><br>
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">...</h3>
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L16H7N1N65&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L16H7N1N65&theme=2077" height="180em" />
+
+</div>  
