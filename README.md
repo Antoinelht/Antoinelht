@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img width="50%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/7ef02ca5-f823-438b-9fa5-8ac8324ed312">
-
+  <img width="70%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/d2263c44-0b86-4694-8027-ff27210980d0">
 
 </p>
 <h2 align="center"> Hello 👋, I'm Antoine, web developer from France </h2>
@@ -20,7 +19,8 @@
 
 <!-- Spacce -->
 <br/>
-<img width="10%" src= "https://github.com/Antoinelht/Antoinelht/assets/143599578/9efb6f8e-46c8-486e-903f-e0e53c2cf01c">
+<p align=center>
+<img width="10%" src= "https://github.com/Antoinelht/Antoinelht/assets/143599578/9efb6f8e-46c8-486e-903f-e0e53c2cf01c"></p>
 <!-- Click for more -->
 <details/>
 <summary align="center"><h3>Click here for more info !</h3></summary>
