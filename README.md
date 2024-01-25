@@ -20,10 +20,10 @@
 
 <!-- Spacce -->
 <br/>
-
+<img width="10%" src= "https://github.com/Antoinelht/Antoinelht/assets/143599578/9efb6f8e-46c8-486e-903f-e0e53c2cf01c">
 <!-- Click for more -->
 <details/>
-<summary align="center">Click here for more info !</summary>
+<summary align="center"><h3>Click here for more info !</h3></summary>
   
 <!-- My Information -->
 <h2 align="left"> INFORMATION & CONTACT</h2>
