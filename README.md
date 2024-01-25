@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img width="70%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/d2263c44-0b86-4694-8027-ff27210980d0">
+
+<img width="80%" src="https://github.com/Antoinelht/Antoinelht/assets/143599578/dd67bf43-7688-44c0-a7a4-d7b61d400825">
 
 </p>
 <h2 align="center"> Hello 👋, I'm Antoine, web developer from France </h2>
